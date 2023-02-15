@@ -1,3 +1,9 @@
+@import url("../blocks/container/container.css");
+@import url("../blocks/image/image.css");
+@import url("../blocks/title/title.css");
+@import url("../blocks/text/text.css");
+@import url("../blocks/list/list.css");
+
 :root {
   --main_background: #2A2C2F;
   --main_font-color: #fff;

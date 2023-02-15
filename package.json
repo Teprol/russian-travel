@@ -1,0 +1,24 @@
+{
+  "name": "russian-travel",
+  "version": "1.0.0",
+  "description": "* Интро\r * Figma\r * Картинки",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "css-to-bem-file-structure": "0.0.5"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/bemify styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teprol/russian-travel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teprol/russian-travel/issues"
+  },
+  "homepage": "https://github.com/Teprol/russian-travel#readme"
+}
