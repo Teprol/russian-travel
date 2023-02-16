@@ -1,2 +1,5 @@
-.cover__title {}
-.cover__title {}
+.cover__title {
+  position: relative;
+  margin: 0 0 16px;
+  z-index: 1;
+}

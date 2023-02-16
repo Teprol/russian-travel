@@ -1,1 +1,3 @@
-.intro__list-count {}
+.intro__list-count {
+  order: 1;
+}

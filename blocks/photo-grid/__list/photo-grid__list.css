@@ -1,1 +1,6 @@
-.photo-grid__list {}
+.photo-grid__list {
+  display: grid;
+  grid-template-rows: repeat(12, minmax(216px, auto));
+  grid-auto-rows: minmax(216px, auto);
+  row-gap: 12px;
+}

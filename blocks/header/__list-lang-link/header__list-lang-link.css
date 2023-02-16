@@ -1,1 +1,11 @@
-.header__list-lang-link {}
+.header__list-lang-link {
+  position: relative;
+  top: 4px;
+  display: flex;
+  column-gap: 18px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+}

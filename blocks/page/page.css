@@ -1,7 +1,10 @@
 .page {
+  margin: 0 auto;
   min-width: 320px;
   max-width: 1280px;
   box-sizing: border-box;
   background-color: var(--main_background);
   color: var(--main_font-color);
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  transition: all 0.3s;
 }

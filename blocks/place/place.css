@@ -1,1 +1,4 @@
-.place {}
+.place {
+  display: grid;
+  row-gap: 32px;
+}

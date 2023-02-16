@@ -1,1 +1,8 @@
-.header__lang-link {}
+.header__lang-link {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
+}
