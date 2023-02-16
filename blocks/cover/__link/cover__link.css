@@ -23,3 +23,10 @@
 .cover__link:hover::before {
   opacity: .8;
 }
+
+
+@media screen and (min-width: 768px) {
+  .cover__link {
+    padding: 115px 104px;
+  }
+}

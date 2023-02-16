@@ -9,3 +9,11 @@
   font-size: 18px;
   line-height: 20px;
 }
+
+@media screen and (min-width: 768px) {
+  .header__list-lang-link {
+    font-size: 24px;
+    line-height: 28px;
+    top: 8px;
+  }
+}

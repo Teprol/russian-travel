@@ -4,3 +4,13 @@
   grid-auto-rows: minmax(216px, auto);
   row-gap: 12px;
 }
+
+@media screen and (min-width: 768px) {
+  .photo-grid__list {
+    gap: 16px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(6, minmax(264px, auto));
+    grid-auto-rows: minmax(264px, auto);
+  }
+}
+

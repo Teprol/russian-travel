@@ -72,7 +72,6 @@
 /** footer */
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__nav/footer__nav.css");
-@import url("../blocks/footer/__nav/footer__nav.css");
 
 @import url("../blocks/nav/nav.css");
 @import url("../blocks/nav/__list/nav__list.css");
