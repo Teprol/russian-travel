@@ -1,6 +1,9 @@
 .header__lang-link {
   cursor: pointer;
   transition: 0.3s;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  color: var(--main_font-color);
+  text-decoration: none;
 }
 
 .header__lang-link:hover {

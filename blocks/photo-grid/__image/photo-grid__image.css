@@ -1,1 +1,3 @@
-.photo-grid__image {}
+.photo-grid__image {
+  height: 100%;
+}
