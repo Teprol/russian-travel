@@ -3,16 +3,9 @@
 @import url("../blocks/image/image.css");
 
 @import url("../blocks/title/title.css");
-@import url("../blocks/title/_subtitle/title_subtitle.css");
+@import url("../blocks/title/_subtitle/");
 
 @import url("../blocks/text/text.css");
 @import url("../blocks/text/_subtitle/text_subtitle.css");
 
 @import url("../blocks/list/list.css");
-
-:root {
-  --main_background: #2a2c2f;
-  --main_font-color: #fff;
-  --color-links: #fff;
-  --color-places-url: #aaaaaa;
-}
