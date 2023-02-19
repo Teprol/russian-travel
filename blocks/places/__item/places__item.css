@@ -12,3 +12,9 @@
     margin: 0 0 73px;
   }
 }
+
+@media screen and (min-width: 1024px){
+  .places__item {
+    margin: 0 0 80px;
+  }
+}

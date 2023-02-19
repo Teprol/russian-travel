@@ -1,1 +1,10 @@
 .intro {}
+
+@media screen and (min-width: 1024px) {
+  .intro {
+    box-sizing: content-box;
+    padding-right: 0;
+    max-width: 690px;
+    width: 100%;
+  }
+}

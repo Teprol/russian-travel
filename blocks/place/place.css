@@ -10,3 +10,19 @@
     row-gap: 48px;
   }
 }
+
+@media screen and (min-width: 1024px){
+  .place {
+    grid-template-columns: minmax(440px, auto) minmax(456px, 1fr);
+    column-gap: 32px;
+    row-gap: 48px;
+  }
+}
+
+@media screen and (min-width: 1280px){
+  .place {
+    grid-template-columns: minmax(460px, auto) minmax(484px, 1fr);
+    column-gap: 40px;
+    row-gap: 48px;
+  }
+}

@@ -30,3 +30,15 @@
     padding: 115px 104px;
   }
 }
+
+@media screen and (min-width: 1024px) {
+  .cover__link {
+    padding: 195px 232px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover__link {
+    padding: 245px 312px;
+  }
+}

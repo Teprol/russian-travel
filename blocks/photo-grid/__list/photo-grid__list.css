@@ -14,3 +14,20 @@
   }
 }
 
+@media screen and (min-width: 1024px) {
+  .photo-grid__list {
+    gap: 14px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: repeat(4, minmax(225px, auto));
+    grid-auto-rows: minmax(225px, auto);
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .photo-grid__list {
+    gap: 16px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: repeat(3, minmax(213px, auto));
+    grid-auto-rows: minmax(213px, auto);
+  }
+}

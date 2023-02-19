@@ -1,1 +1,7 @@
 .photo-grid {}
+
+@media screen and (min-width: 1280px){
+  .photo-grid {
+    padding: 0 48px 0;
+  }
+}

@@ -4,7 +4,6 @@
 @import url("../vendor/font/fonts.css");
 @import url("../vendor/global.css");
 
-
 /**Главный контейнер страницы*/
 @import url("../blocks/page/page.css");
 @import url("../blocks/page/__header/page__header.css");
@@ -47,7 +46,6 @@
 @import url("../blocks/photo-grid/__item/photo-grid__item.css");
 @import url("../blocks/image/image.css");
 
-
 /** places */
 @import url("../blocks/places/places.css");
 @import url("../blocks/places/__list/places__list.css");
@@ -67,7 +65,6 @@
 @import url("../blocks/cover/__link/cover__link.css");
 @import url("../blocks/cover/__title/cover__title.css");
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");
-
 
 /** footer */
 @import url("../blocks/footer/footer.css");
