@@ -7,7 +7,7 @@
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 1024px) {
   .places {
     padding: 0 48px 0;
   }
